@@ -1,17 +1,17 @@
 # Site settings
 title:       Tư Duy Đơn Giản
-email:       your_email@example.com
+email:       hi@tuduydongian.com
 author:      Tư Duy Đơn Giản
 description: "Nghĩ đơn giản, làm đơn giản"
 baseurl:     ""
-url:         "http://tuduydongian.com"
+url:         "https://tuduydongian.com"
 date_format: "%b %-d, %Y"
 
 # Google services
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
+google_analytics: UA-100038903-1
 google_tag_manager:
 # Bing services
 bing_verification:
