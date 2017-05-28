@@ -30,8 +30,8 @@ post_preview_image: false
 
 # Facebook Page integration
 # (for instant articles and other stuff)
-fb_page: false
-fb_page_id:
+fb_page: true
+fb_page_id: 114501369134445
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -43,15 +43,15 @@ txtpen_sitename:
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
-facebook_comments:
-facebook_appid:
+facebook_comments: true
+facebook_appid: 124307384811590
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: tuduydongian
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: tuduydongian
 skype_username:
 steam_nickname:
 google_plus_id:
@@ -65,10 +65,10 @@ telegram_username:
 vk_id:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
